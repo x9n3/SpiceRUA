@@ -39,13 +39,13 @@ Console.WriteLine(SpiceRUA.GetRandomUA());
   Console.WriteLine(SpiceRUA.GetOperaUA());
 
 // Print a random Opera Mini Browser User-Agent.
-  Console.WriteLine(SpiceRUA.GetOpearMiniUA);
+  Console.WriteLine(SpiceRUA.GetOpearMiniUA());
 
 // Print a random Mozilla Browser User-Agent.
-  Console.WriteLine(SpiceRUA.GetMozillaUA);
+  Console.WriteLine(SpiceRUA.GetMozillaUA());
 
 // Print a random Firefox Browser User-Agent.
-  Console.WriteLine(SpiceRUA.GetFirefoxUA);
+  Console.WriteLine(SpiceRUA.GetFirefoxUA());
 
 // Print a random Safari Browser User-Agent.
   Console.WriteLine(SpiceRUA.GetSafariUA());
